@@ -3,6 +3,8 @@ Data mining is the process of analyzing large sets of data to discover patterns,
 
 ![image](https://github.com/user-attachments/assets/13e55999-0d57-4ebd-bd8b-de0da0a24ac5)
 
+
+
 # Data Mining Process
 
 ![image](https://github.com/user-attachments/assets/2319da6b-104e-496a-a20f-bc1a76fed34c)
