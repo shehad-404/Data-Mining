@@ -5,15 +5,5 @@ Data mining is the process of analyzing large sets of data to discover patterns,
 
 # Data Mining Process
 
-Data Mining Journey
-Informed Decisions
-Result Interpretation
-Data Collection
-Preprocessing
-Pattern Discovery
-Enhanced decision-making outcomes
-Gathering raw data
-Cleaning and organizing data
-Analyzing findings for insights
-Identifying trends and relationships![image](https://github.com/user-attachments/assets/2319da6b-104e-496a-a20f-bc1a76fed34c)
+![image](https://github.com/user-attachments/assets/2319da6b-104e-496a-a20f-bc1a76fed34c)
 
