@@ -70,20 +70,20 @@ Text mining techniques are applied to extract valuable insights and knowledge fr
 
 - __Marketing and Retail:__ Customer segmentation, targeted marketing campaigns, market basket analysis, and product recommendation systems.
 
--- Banking and Finance: Fraud detection, credit risk assessment, customer retention, and investment prediction.
+- __Banking and Finance:__ Fraud detection, credit risk assessment, customer retention, and investment prediction.
 
--- Healthcare: Disease diagnosis, patient risk analysis, treatment effectiveness studies, and healthcare management.
+- __Healthcare:__ Disease diagnosis, patient risk analysis, treatment effectiveness studies, and healthcare management.
 
--- Telecommunications: Churn prediction, network optimization, and usage pattern analysis.
+- __Telecommunications:__ Churn prediction, network optimization, and usage pattern analysis.
 
--- Education: Student performance prediction, personalized learning, and course recommendation.
+- __Education:__ Student performance prediction, personalized learning, and course recommendation.
 
--- E-commerce: Personalized recommendations, dynamic pricing, and customer behavior analysis.
+- __E-commerce:__ Personalized recommendations, dynamic pricing, and customer behavior analysis.
 
--- Manufacturing: Predictive maintenance, quality control, and supply chain optimization.
+- __Manufacturing:__ Predictive maintenance, quality control, and supply chain optimization.
 
--- Social Media: Sentiment analysis, trend prediction, and user behavior analysis.
+- __Social Media:__ Sentiment analysis, trend prediction, and user behavior analysis.
 
--- Insurance: Risk assessment, fraud detection, and policy pricing.
+- __Insurance:__ Risk assessment, fraud detection, and policy pricing.
 
--- Government: Crime prevention, tax fraud detection, and resource optimization.
+- __Government:__ Crime prevention, tax fraud detection, and resource optimization.
