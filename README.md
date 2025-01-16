@@ -68,7 +68,7 @@ Text mining techniques are applied to extract valuable insights and knowledge fr
 
 # Some key applications of data mining:
 
--- Marketing and Retail: Customer segmentation, targeted marketing campaigns, market basket analysis, and product recommendation systems.
+- Marketing and Retail: Customer segmentation, targeted marketing campaigns, market basket analysis, and product recommendation systems.
 
 -- Banking and Finance: Fraud detection, credit risk assessment, customer retention, and investment prediction.
 
